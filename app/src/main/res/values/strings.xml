@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">NUTRIENTES PARA TU CUERPO</string>
+
+    //menu lateral items
+
+    <string name="itemcarb">CARBOHIDRATOS</string>
+    <string name="itemprot">PROTEINAS</string>
+    <string name="itemgras">GRASAS</string>
+    <string name="iteminicio">INICIO</string>
+
+    // texto de apertura
+
+    <string name="txtape">El cuerpo utiliza tres nutrientes principales para su funcionamiento: carbohidratos, proteínas y grasas, estos se convierten
+        en compuestos más simples al digerirse. Los carbohidratos se utilizan para producir energía (glucosa). Las grasas se utilizan para generar energía después
+        de descomponerse en ácidos grasos. Las proteínas también pueden usarse para generar energía, ayuda a producir hormonas, músculo y otras proteínas.</string>
+
+    <string name="txt2">Seleccione el alimento y sabras a que tipo corresponde: </string>
+
+
+    // boton
+
+    <string name="btnaceptar">ACEPTAR</string>
+
+    // textos en las demas pestañas
+
+    <string name="txtc1">CARBOHIDRATOS:
+        Se descomponen en glucosa, la cual se utiliza para proporcionar energía a las células. El resto se almacena en el hígado.</string>
+
+    <string name="txtp1">PROTEINAS:
+        Se descomponen en aminoácidos, que se utilizan para formar músculo y para producir otras proteínas que son esenciales para que
+        el funcionamiento del cuerpo</string>
+
+    <string name="txtg1">GRASAS:
+        Se descomponen en ácidos grasos para formar el revestimiento de las células y producir hormonas. El resto se almacena en las
+        células grasas.</string>
+</resources>
